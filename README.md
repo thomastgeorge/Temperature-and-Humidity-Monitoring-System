@@ -1,4 +1,4 @@
-# -Temperature-and-Humidity-Monitoring-System-using-Arduino
+# Temperature-and-Humidity-Monitoring-System-using-Arduino
 
 An Arduino library for the DHT series of low-cost temperature/humidity sensors.
 <br />
